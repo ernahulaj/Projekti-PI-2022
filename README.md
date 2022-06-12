@@ -10,4 +10,4 @@ Disa pamje nga ekzekutimi i programit: <br>
 ![3](https://i.ibb.co/3dD639W/3.png)
 
 Specifikat dhe pershkrimi i detyres:
-![Pershkrimi i projektit](C:\Users\ernah\Downloads\Pershkrimi_i_projektit.pdf)
+![Pershkrimi i projektit](https://pdfhost.io/v/v1kANLJYa_Pershrkimi_i_projektit)

@@ -8,4 +8,3 @@ Disa pamje nga ekzekutimi i programit: <br>
 ![1](https://i.ibb.co/8jpxWzF/1.png)
 ![2](https://i.ibb.co/ZNmsVpg/2.png)
 ![3](https://i.ibb.co/3dD639W/3.png)
-![4](https://i.ibb.co/k65f11X/4.png)

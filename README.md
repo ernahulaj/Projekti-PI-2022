@@ -8,3 +8,6 @@ Disa pamje nga ekzekutimi i programit: <br>
 ![1](https://i.ibb.co/8jpxWzF/1.png)
 ![2](https://i.ibb.co/ZNmsVpg/2.png)
 ![3](https://i.ibb.co/3dD639W/3.png)
+
+Specifikat dhe pershkrimi i detyres:
+![Pershkrimi i projektit](C:\Users\ernah\Downloads\Pershkrimi_i_projektit.pdf)
